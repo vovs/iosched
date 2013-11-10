@@ -1,278 +1,355 @@
-{ "sessions" : [ { "description" : "В докладе планируется осветить состояние датчиков биометрической идентификации, применяемых в мобильных устройствах. Приложений созданных для таких датчиков. Например шифрование/дешифрование данных пользователя на мобильном устройстве с помощью биометрического датчика.\r\n\r\nНекоторые ссылки по биометрии:\r\n\r\nhttp://www.xakep.ru/post/60228/ \r\nhttp://www.macdigger.ru/iphone-ipod/bionic-eye-dlya-ios-biometricheskaya-identifikaciya-po-licu.html \r\nhttp://www.biometrics.ru/news/iphone_i_imac_poluchat_funkcii_biometricheskoi_identifikacii/ \r\nhttp://minfin.com.ua/2013/03/10/729445/ \r\nwww.ixbt.com/news/hard/index.shtml?15/77/40‎",
-        "endTimestamp" : 1385201700,
-        "id" : "115",
-        "location" : "4",
-        "presenterIds" : [ "114" ],
-        "startTimestamp" : 1385199000,
-        "subtype" : "SESSION",
-        "title" : "Биометрическая идентификация, применяемая в мобильных устройствах",
-        "webLink" : "http://www.uamobile.org/question/biometricheskaya-identifikaciya-primenyaemaya-v-mobilnyh-ustroystvah"
+{
+   "sessions":[
+      {
+         "description":"В докладе планируется осветить состояние датчиков биометрической идентификации, применяемых в мобильных устройствах. Приложений созданных для таких датчиков. Например шифрование/дешифрование данных пользователя на мобильном устройстве с помощью биометрического датчика.\r\n\r\nНекоторые ссылки по биометрии:\r\n\r\nhttp://www.xakep.ru/post/60228/ \r\nhttp://www.macdigger.ru/iphone-ipod/bionic-eye-dlya-ios-biometricheskaya-identifikaciya-po-licu.html \r\nhttp://www.biometrics.ru/news/iphone_i_imac_poluchat_funkcii_biometricheskoi_identifikacii/ \r\nhttp://minfin.com.ua/2013/03/10/729445/ \r\nwww.ixbt.com/news/hard/index.shtml?15/77/40‎",
+         "endTimestamp":1385201700,
+         "id":"115",
+         "location":"4",
+         "presenterIds":[
+            "211"
+         ],
+         "startTimestamp":1385199000,
+         "subtype":"SESSION",
+         "title":"Биометрическая идентификация, применяемая в мобильных устройствах",
+         "webLink":"http://www.uamobile.org/question/biometricheskaya-identifikaciya-primenyaemaya-v-mobilnyh-ustroystvah"
       },
-      { "description" : "Разработка мобильных приложений для iOS с использованием RubyMotion www.rubymotion.com. Если вы знаете Ruby, то вы можете попробовать писать для iOS, не изучая Objective-C. И наоборот - это прекрасная возможность выучить и использовать Ruby в реальных проектах. Я собираюсь рассказать о своём живом опыте использования RubyMotion и подсказать с чего стоит начинать.",
-        "endTimestamp" : 1385201700,
-        "id" : "113",
-        "location" : "6",
-        "presenterIds" : [ "236" ],
-        "startTimestamp" : 1385199000,
-        "subtype" : "SESSION",
-        "title" : "Разработка iOS - приложений на Ruby (RubyMotion first steps)",
-        "webLink" : "http://www.uamobile.org/question/razrabotka-ios-prilozheniy-na-ruby-rubymotion-first-steps"
+      {
+         "description":"Разработка мобильных приложений для iOS с использованием RubyMotion www.rubymotion.com. Если вы знаете Ruby, то вы можете попробовать писать для iOS, не изучая Objective-C. И наоборот - это прекрасная возможность выучить и использовать Ruby в реальных проектах. Я собираюсь рассказать о своём живом опыте использования RubyMotion и подсказать с чего стоит начинать.",
+         "endTimestamp":1385201700,
+         "id":"113",
+         "location":"6",
+         "presenterIds":[
+            "236"
+         ],
+         "startTimestamp":1385199000,
+         "subtype":"SESSION",
+         "title":"Разработка iOS - приложений на Ruby (RubyMotion first steps)",
+         "webLink":"http://www.uamobile.org/question/razrabotka-ios-prilozheniy-na-ruby-rubymotion-first-steps"
       },
-      { "description" : "Сейчас в Google Play более миллиона приложений, и выделиться на общем фоне не просто. Ещё пару лет назад пользователи платформы были не слишком привередливы, но сейчас они начали привыкать к прекрасному. Этот доклад о том, как делать первые шаги к тому самому прекрасному, и о том, как полюбить кастомные View так же сильно, как любим их мы.",
-        "endTimestamp" : 1385201700,
-        "id" : "106",
-        "location" : "3",
-        "presenterIds" : [ "230" ],
-        "startTimestamp" : 1385199000,
-        "subtype" : "SESSION",
-        "title" : "Как я перестал бояться и полюбил кастомные View",
-        "webLink" : "http://www.uamobile.org/question/kak-ya-perestal-boyatsya-i-polyubil-kastomnye-view"
+      {
+         "description":"Сейчас в Google Play более миллиона приложений, и выделиться на общем фоне не просто. Ещё пару лет назад пользователи платформы были не слишком привередливы, но сейчас они начали привыкать к прекрасному. Этот доклад о том, как делать первые шаги к тому самому прекрасному, и о том, как полюбить кастомные View так же сильно, как любим их мы.",
+         "endTimestamp":1385201700,
+         "id":"106",
+         "location":"3",
+         "presenterIds":[
+            "230"
+         ],
+         "startTimestamp":1385199000,
+         "subtype":"SESSION",
+         "title":"Как я перестал бояться и полюбил кастомные View",
+         "webLink":"http://www.uamobile.org/question/kak-ya-perestal-boyatsya-i-polyubil-kastomnye-view"
       },
-      { "description" : "Windows Phone обладает большим количеством возможностей по работе с данными, поступающими с камеры телефона. Кроме стандартных возможностей, Nokia представляет Imagine SDK, позволяющий разработчикам реализовывать новые сценарии работы с изображениями. Обо всем этом и пойдет речь в докладе.",
-        "endTimestamp" : 1385201700,
-        "id" : "119",
-        "location" : "2",
-        "presenterIds" : [ "234" ],
-        "startTimestamp" : 1385199000,
-        "subtype" : "SESSION",
-        "title" : "Windows Phone: Построение приложений по работе с камерой",
-        "webLink" : "http://www.uamobile.org/question/windows-phone-postroenie-prilozheniy-po-rabote-s-kameroy"
+      {
+         "description":"Windows Phone обладает большим количеством возможностей по работе с данными, поступающими с камеры телефона. Кроме стандартных возможностей, Nokia представляет Imagine SDK, позволяющий разработчикам реализовывать новые сценарии работы с изображениями. Обо всем этом и пойдет речь в докладе.",
+         "endTimestamp":1385201700,
+         "id":"119",
+         "location":"2",
+         "presenterIds":[
+            "234"
+         ],
+         "startTimestamp":1385199000,
+         "subtype":"SESSION",
+         "title":"Windows Phone: Построение приложений по работе с камерой",
+         "webLink":"http://www.uamobile.org/question/windows-phone-postroenie-prilozheniy-po-rabote-s-kameroy"
       },
-      { "description" : "Як правильно обрати девайси (телефони, планшети), щоб покрити максимальну аудиторію користувачів вашого додатку.",
-        "endTimestamp" : 1385201700,
-        "id" : "111",
-        "location" : "5",
-        "presenterIds" : [ "88" ],
-        "startTimestamp" : 1385199000,
-        "subtype" : "SESSION",
-        "title" : "Вибір правильних тестових девайсів",
-        "webLink" : "http://www.uamobile.org/question/vibir-pravilnih-testovih-devaysiv"
+      {
+         "description":"Як правильно обрати девайси (телефони, планшети), щоб покрити максимальну аудиторію користувачів вашого додатку.",
+         "endTimestamp":1385201700,
+         "id":"111",
+         "location":"5",
+         "presenterIds":[
+            "88"
+         ],
+         "startTimestamp":1385199000,
+         "subtype":"SESSION",
+         "title":"Вибір правильних тестових девайсів",
+         "webLink":"http://www.uamobile.org/question/vibir-pravilnih-testovih-devaysiv"
       },
-      { "description" : "Несмотря на то, что использование менеджера пакетов действительно довольно простое, бывают нестандартные ситуации в которых требуется углубленное понимание cocoapods. Конфигурация для множественных target, передача параметров в конфигурации, настройка User Header Search Path и совместимость arm64. Так же рассмотрим создание своих podspecs при декомпозиции приложения.",
-        "endTimestamp" : 1385205000,
-        "id" : "109",
-        "location" : "2",
-        "presenterIds" : [ "317" ],
-        "startTimestamp" : 1385202300,
-        "subtype" : "SESSION",
-        "title" : "Advanced использование Cocoapods и создание своих podspecs",
-        "webLink" : "http://www.uamobile.org/question/advanced-ispolzovanie-cocoapods-i-sozdanie-svoih-podspecs"
+      {
+         "description":"Несмотря на то, что использование менеджера пакетов действительно довольно простое, бывают нестандартные ситуации в которых требуется углубленное понимание cocoapods. Конфигурация для множественных target, передача параметров в конфигурации, настройка User Header Search Path и совместимость arm64. Так же рассмотрим создание своих podspecs при декомпозиции приложения.",
+         "endTimestamp":1385205000,
+         "id":"109",
+         "location":"2",
+         "presenterIds":[
+            "317"
+         ],
+         "startTimestamp":1385202300,
+         "subtype":"SESSION",
+         "title":"Advanced использование Cocoapods и создание своих podspecs",
+         "webLink":"http://www.uamobile.org/question/advanced-ispolzovanie-cocoapods-i-sozdanie-svoih-podspecs"
       },
-      { "description" : "Android, как платформа, предоставляет достаточно широкий спектр инструментов для остлеживания текущего положения пользователя в пространстве, но в основном они заточены или под определение сиеминутного положения пользователя (текущая локация по требовнаию), или отследживание кратковременого перемещения пользователя (RunKeeper, Nike+, и т.п.).\r\n\r\nПопытки создать сервис, который бы отслеживал перемещение пользователя постоянно и с заданой точностью, как правило, приводят к сильному расходу батареи.\r\n\r\nЗадача данного доклада заключается в рассказе о том, как используя последние расработки Google для платформы Android, можно создать сервис, который будет отслеживать положение пользователя с нужной нам точностью, при этом оптимально расходуя заряд батареи.",
-        "endTimestamp" : 1385205000,
-        "id" : "121",
-        "location" : "6",
-        "presenterIds" : [ "214" ],
-        "startTimestamp" : 1385202300,
-        "subtype" : "SESSION",
-        "title" : "Создание адаптивных geo-tracking сервисов для Android",
-        "webLink" : "http://www.uamobile.org/question/sozdaniya-adaptivnyh-geo-tracking-servisov-dlya-android"
+      {
+         "description":"Android, как платформа, предоставляет достаточно широкий спектр инструментов для остлеживания текущего положения пользователя в пространстве, но в основном они заточены или под определение сиеминутного положения пользователя (текущая локация по требовнаию), или отследживание кратковременого перемещения пользователя (RunKeeper, Nike+, и т.п.).\r\n\r\nПопытки создать сервис, который бы отслеживал перемещение пользователя постоянно и с заданой точностью, как правило, приводят к сильному расходу батареи.\r\n\r\nЗадача данного доклада заключается в рассказе о том, как используя последние расработки Google для платформы Android, можно создать сервис, который будет отслеживать положение пользователя с нужной нам точностью, при этом оптимально расходуя заряд батареи.",
+         "endTimestamp":1385205000,
+         "id":"121",
+         "location":"6",
+         "presenterIds":[
+            "214"
+         ],
+         "startTimestamp":1385202300,
+         "subtype":"SESSION",
+         "title":"Создание адаптивных geo-tracking сервисов для Android",
+         "webLink":"http://www.uamobile.org/question/sozdaniya-adaptivnyh-geo-tracking-servisov-dlya-android"
       },
-      { "description" : "Xamarin-разработка становится все популярнее, появляется все больше людей, которые хотят попробовать себя в этой платформе, появляются новые подходы.\r\n\r\nНа воркшопе я бы хотел показать то, к чему мы пришли в нашей компании и как именно мы разрабатываем наши приложения. Т.е. это будет не теоретическая презенташка о том, как все хорошо, а настоящий продакшеновский хардкор со всеми его радостями и горестями.\r\n\r\nНа воркшопе мы узнаем про:\r\n
-- Рекомендованый компанией Xamarin подход к разработке\r\n
-- Альтернативный подход, к которому мы пришли в итоге\r\n
-- Увидим пример приложения на Xamarin + MvvmCross",
-        "endTimestamp" : 1385205000,
-        "id" : "229",
-        "location" : "4",
-        "presenterIds" : [ "59" ],
-        "startTimestamp" : 1385202300,
-        "subtype" : "SESSION",
-        "title" : "Xamarin воркшоп",
-        "webLink" : "http://www.uamobile.org/question/xamarin-vorkshop"
+      {
+         "description":"Xamarin-разработка становится все популярнее, появляется все больше людей, которые хотят попробовать себя в этой платформе, появляются новые подходы.\r\n\r\nНа воркшопе я бы хотел показать то, к чему мы пришли в нашей компании и как именно мы разрабатываем наши приложения. Т.е. это будет не теоретическая презенташка о том, как все хорошо, а настоящий продакшеновский хардкор со всеми его радостями и горестями.\r\n\r\nНа воркшопе мы узнаем про:\r\n- Рекомендованый компанией Xamarin подход к разработке\r\n- Альтернативный подход, к которому мы пришли в итоге\r\n- Увидим пример приложения на Xamarin + MvvmCross",
+         "endTimestamp":1385205000,
+         "id":"229",
+         "location":"4",
+         "presenterIds":[
+            "59"
+         ],
+         "startTimestamp":1385202300,
+         "subtype":"SESSION",
+         "title":"Xamarin воркшоп",
+         "webLink":"http://www.uamobile.org/question/xamarin-vorkshop"
       },
-      { "description" : "Инструменты для быстрой разработки мобильных приложений, которые взаимодействуют с вэб-сервисами. Подход к построению клиент-сервер систем с учетом мобильных клиентов. Вопросы и ответы по дизайну API сервисов.\r\n\r\nПлан:\r\n1) вступление;\r\n2) инструменты для ios (networking, storage, sync);\r\n3) инструменты для бэкэнда (parse, apigee);\r\n4) синергия — helios, restkit;\r\n5) тестирование — Fank / Kif / ?;\r\n
-6) последствия - continuous integration",
-        "endTimestamp" : 1385205000,
-        "id" : "123",
-        "location" : "5",
-        "presenterIds" : [ "67" ],
-        "startTimestamp" : 1385202300,
-        "subtype" : "SESSION",
-        "title" : "Mobile in the cloud with diamonds",
-        "webLink" : "http://www.uamobile.org/question/mobile-cloud-diamonds"
+      {
+         "description":"Инструменты для быстрой разработки мобильных приложений, которые взаимодействуют с вэб-сервисами. Подход к построению клиент-сервер систем с учетом мобильных клиентов. Вопросы и ответы по дизайну API сервисов.\r\n\r\nПлан:\r\n1) вступление;\r\n2) инструменты для ios (networking, storage, sync);\r\n3) инструменты для бэкэнда (parse, apigee);\r\n4) синергия — helios, restkit;\r\n5) тестирование — Fank / Kif / ?;\r\n6) последствия - continuous integration",
+         "endTimestamp":1385205000,
+         "id":"123",
+         "location":"5",
+         "presenterIds":[
+            "67"
+         ],
+         "startTimestamp":1385202300,
+         "subtype":"SESSION",
+         "title":"Mobile in the cloud with diamonds",
+         "webLink":"http://www.uamobile.org/question/mobile-cloud-diamonds"
       },
-      { "description" : "Стоимость привлечения новых пользователей постоянно растет, а удержание привлеченных пользователей становится еще более дорогой и трудоемкой задачей.\r\n\r\nКак оптимизировать расходы и получить максимум лояльных пользователей? В докладе будет рассмотрено, основываясь на опыте работы в международных компаниях и стартапах:\r\n\r\n- где искать целевой траффик\r\n- методы получения траффика\r\n- DO's & DON'T's\r\n- RnD или пару хитростей, которые работают\r\n",
-        "endTimestamp" : 1385214900,
-        "id" : "117",
-        "location" : "3",
-        "presenterIds" : [ "92" ],
-        "startTimestamp" : 1385208600,
-        "subtype" : "SESSION",
-        "title" : "Траффик - это нефть для онлайн бизнеса",
-        "webLink" : "http://www.uamobile.org/question/traffik-eto-neft-dlya-onlayn-biznesa"
+      {
+         "description":"Стоимость привлечения новых пользователей постоянно растет, а удержание привлеченных пользователей становится еще более дорогой и трудоемкой задачей.\r\n\r\nКак оптимизировать расходы и получить максимум лояльных пользователей? В докладе будет рассмотрено, основываясь на опыте работы в международных компаниях и стартапах:\r\n\r\n- где искать целевой траффик\r\n- методы получения траффика\r\n- DO's & DON'T's\r\n- RnD или пару хитростей, которые работают\r\n",
+         "endTimestamp":1385214900,
+         "id":"117",
+         "location":"3",
+         "presenterIds":[
+            "92"
+         ],
+         "startTimestamp":1385208600,
+         "subtype":"SESSION",
+         "title":"Траффик - это нефть для онлайн бизнеса",
+         "webLink":"http://www.uamobile.org/question/traffik-eto-neft-dlya-onlayn-biznesa"
       },
-      { "description" : "Реверс-инжиниринг — исследование некоторого устройства или программы, а также документации на него с целью понять принцип его работы; например, чтобы обнаружить недокументированные возможности (в том числе «программные закладки»), сделать изменение, или воспроизвести устройство, программу или иной объект с аналогичными функциями, но без копирования как такового.\r\n\r\nО чем поговорим:\r\n\r\nЗачем?\r\nКакие подходы?\r\nДоступный инструментарий.\r\nВнутренности и тонкости.\r\nС чего начать?\r\nКак защитить приложение от взлома?",
-        "endTimestamp" : 1385214900,
-        "id" : "267",
-        "location" : "3",
-        "presenterIds" : [ "54" ],
-        "startTimestamp" : 1385208600,
-        "subtype" : "SESSION",
-        "title" : "Реверс инжиниринг iOS приложений",
-        "webLink" : "http://www.uamobile.org/question/revers-inzhiniring-ios-prilozheniy"
+      {
+         "description":"Реверс-инжиниринг — исследование некоторого устройства или программы, а также документации на него с целью понять принцип его работы; например, чтобы обнаружить недокументированные возможности (в том числе «программные закладки»), сделать изменение, или воспроизвести устройство, программу или иной объект с аналогичными функциями, но без копирования как такового.\r\n\r\nО чем поговорим:\r\n\r\nЗачем?\r\nКакие подходы?\r\nДоступный инструментарий.\r\nВнутренности и тонкости.\r\nС чего начать?\r\nКак защитить приложение от взлома?",
+         "endTimestamp":1385214900,
+         "id":"267",
+         "location":"3",
+         "presenterIds":[
+            "54"
+         ],
+         "startTimestamp":1385208600,
+         "subtype":"SESSION",
+         "title":"Реверс инжиниринг iOS приложений",
+         "webLink":"http://www.uamobile.org/question/revers-inzhiniring-ios-prilozheniy"
       },
-      { "description" : "Оптимизация приложения или как добиться плавной прокрутки. Подводные камни ListView и Adapter-ов с разными типами item-ов.",
-        "endTimestamp" : 1385214900,
-        "id" : "255",
-        "location" : "6",
-        "presenterIds" : [ "213" ],
-        "startTimestamp" : 1385208600,
-        "subtype" : "SESSION",
-        "title" : "Использование Adapter-ов в ListView",
-        "webLink" : "http://www.uamobile.org/question/ispolzovanie-adapter-ov-v-listview"
+      {
+         "description":"Оптимизация приложения или как добиться плавной прокрутки. Подводные камни ListView и Adapter-ов с разными типами item-ов.",
+         "endTimestamp":1385214900,
+         "id":"255",
+         "location":"6",
+         "presenterIds":[
+            "213"
+         ],
+         "startTimestamp":1385208600,
+         "subtype":"SESSION",
+         "title":"Использование Adapter-ов в ListView",
+         "webLink":"http://www.uamobile.org/question/ispolzovanie-adapter-ov-v-listview"
       },
-      { "description" : "В ходе доклада мы сделаем обзор AMS и рассмотрим сценарии его использования. Отдельно остановимся на таких вопросах, как создание подписки AMS, обработка транзакций CRUD, Push уведомления и Sheduled операции.",
-        "endTimestamp" : 1385214900,
-        "id" : "320",
-        "location" : "2",
-        "presenterIds" : [ "228" ],
-        "startTimestamp" : 1385208600,
-        "subtype" : "SESSION",
-        "title" : "Azure Mobile Services для построения мобильных приложений",
-        "webLink" : "http://www.uamobile.org/question/azure-mobile-services-dlya-postroeniya-mobilnyh-prilozheniy"
+      {
+         "description":"В ходе доклада мы сделаем обзор AMS и рассмотрим сценарии его использования. Отдельно остановимся на таких вопросах, как создание подписки AMS, обработка транзакций CRUD, Push уведомления и Sheduled операции.",
+         "endTimestamp":1385214900,
+         "id":"320",
+         "location":"2",
+         "presenterIds":[
+            "228"
+         ],
+         "startTimestamp":1385208600,
+         "subtype":"SESSION",
+         "title":"Azure Mobile Services для построения мобильных приложений",
+         "webLink":"http://www.uamobile.org/question/azure-mobile-services-dlya-postroeniya-mobilnyh-prilozheniy"
       },
-      { "description" : "Tizen - это новая мобильная операционная система Open Source от Intel и Samsung.
-В данном докладе мы обсудим такие вопросы:\r\n\r\nчто из себя представляет Tizen;\r\nкак разрабатывать приложения;\r\nинструменты для разработки;\r\nподводные камни в разрабоке;\r\nкак опубликовать приложения в Tizen Store",
-        "endTimestamp" : 1385214900,
-        "id" : "346",
-        "location" : "4",
-        "presenterIds" : [ "71" ],
-        "startTimestamp" : 1385208600,
-        "subtype" : "SESSION",
-        "title" : "Краткое знакомство с Tizen",
-        "webLink" : "http://www.uamobile.org/question/kratkoe-znakomstvo-s-tizen"
+      {
+         "description":"Tizen - это новая мобильная операционная система Open Source от Intel и Samsung.В данном докладе мы обсудим такие вопросы:\r\n\r\nчто из себя представляет Tizen;\r\nкак разрабатывать приложения;\r\nинструменты для разработки;\r\nподводные камни в разрабоке;\r\nкак опубликовать приложения в Tizen Store",
+         "endTimestamp":1385214900,
+         "id":"346",
+         "location":"4",
+         "presenterIds":[
+            "71"
+         ],
+         "startTimestamp":1385208600,
+         "subtype":"SESSION",
+         "title":"Краткое знакомство с Tizen",
+         "webLink":"http://www.uamobile.org/question/kratkoe-znakomstvo-s-tizen"
       },
-      { "description" : "В мае 2013 года Google объявил о том, что делает свою собственную IDE на основе открытой платформы IntelliJ от JetBrains.\r\n\r\nИнтересно, как мы в JetBrains делаем эту платформу, что в Android Studio от Google, а что - от JetBrains, чем отличается Android Studio от IntelliJ IDEA, чем Layout Designer в Eclipse отличается от своего собрата в Android Studio, и как можно работать с SQLite Android'a прямо из IDE? Именно об этом будет доклад с демо самых последних новинок.",
-        "endTimestamp" : 1385214600,
-        "id" : "218",
-        "location" : "2",
-        "presenterIds" : [ "219" ],
-        "startTimestamp" : 1385211900,
-        "subtype" : "SESSION",
-        "title" : "Чем отличается Android Studio от IntelliJ IDEA и как работать с SQLite прямо из IDE",
-        "webLink" : "http://www.uamobile.org/question/chem-otlichaetsya-android-studio-ot-intellij-idea-i-kak-rabotat-s-sqlite-pryamo-iz-ide"
+      {
+         "description":"В мае 2013 года Google объявил о том, что делает свою собственную IDE на основе открытой платформы IntelliJ от JetBrains.\r\n\r\nИнтересно, как мы в JetBrains делаем эту платформу, что в Android Studio от Google, а что - от JetBrains, чем отличается Android Studio от IntelliJ IDEA, чем Layout Designer в Eclipse отличается от своего собрата в Android Studio, и как можно работать с SQLite Android'a прямо из IDE? Именно об этом будет доклад с демо самых последних новинок.",
+         "endTimestamp":1385214600,
+         "id":"218",
+         "location":"2",
+         "presenterIds":[
+            "219"
+         ],
+         "startTimestamp":1385211900,
+         "subtype":"SESSION",
+         "title":"Чем отличается Android Studio от IntelliJ IDEA и как работать с SQLite прямо из IDE",
+         "webLink":"http://www.uamobile.org/question/chem-otlichaetsya-android-studio-ot-intellij-idea-i-kak-rabotat-s-sqlite-pryamo-iz-ide"
       },
-      { "description" : "Поговорим о том, как функциональный подход делает асинхронное программирование проще, а ваши приложения - надежней.\r\n\r\nРассмотрим библиотеку iAsync и сравним её с такими популярными инструментами, как AFNetworking, Reactive Cocoa и "теплым ламповым" GCD без прекрас.\r\n\r\nВ качестве примера возьмем типовую задачу взаимодействия с RESTful web service.\r\n\r\nЧего не будет в докладе :\r\n\r\nВысокой теории ФП\r\nЗаумных математических формул",
-        "endTimestamp" : 1385214600,
-        "id" : "251",
-        "location" : "3",
-        "presenterIds" : [ "112" ],
-        "startTimestamp" : 1385211900,
-        "subtype" : "SESSION",
-        "title" : "Разработка под iOS с элементами функционального программирования",
-        "webLink" : "http://www.uamobile.org/question/razrabotka-pod-ios-s-elementami-funkcionalnogo-programmirovaniya"
+      {
+         "description":"Поговорим о том, как функциональный подход делает асинхронное программирование проще, а ваши приложения - надежней.\r\n\r\nРассмотрим библиотеку iAsync и сравним её с такими популярными инструментами, как AFNetworking, Reactive Cocoa и \"теплымламповым\" GCD без прекрас.\r\n\r\nВ качестве примера возьмем типовую задачу взаимодействия с RESTful web service.\r\n\r\nЧего не будет в докладе :\r\n\r\nВысокой теории ФП\r\nЗаумных математических формул",
+         "endTimestamp":1385214600,
+         "id":"251",
+         "location":"3",
+         "presenterIds":[
+            "112"
+         ],
+         "startTimestamp":1385211900,
+         "subtype":"SESSION",
+         "title":"Разработка под iOS с элементами функционального программирования",
+         "webLink":"http://www.uamobile.org/question/razrabotka-pod-ios-s-elementami-funkcionalnogo-programmirovaniya"
       },
-      { "description" : "Сложился стереотип, что для создания мобильного приложения лучше всего подходит Cowboy Driven Development. С другой стороны "Enterprise Architects" используют накопленый JavaEE опыт, создавая "AbstractDaoSessionFactory". Очевидно, что каждый из подходов не даст предсказуемых и эффективных результатов.\r\n\r\nВ докладе рассмотрим типичные успешные (и не очень) подходы связывания компонентов, хранения данных, тестирования андроид приложений.\r\n\r\nРасчитан на людей с опытом разработки под Android от 1 года.",
-        "endTimestamp" : 1385214600,
-        "id" : "325",
-        "location" : "4",
-        "presenterIds" : [ "107" ],
-        "startTimestamp" : 1385211900,
-        "subtype" : "SESSION",
-        "title" : "Android app architecture (anti-)patterns",
-        "webLink" : "http://www.uamobile.org/question/android-app-architecture-anti-patterns"
+      {
+         "description":"Сложился стереотип, что для создания мобильного приложения лучше всего подходит Cowboy Driven Development. С другой стороны \"EnterpriseArchitects\" используют накопленый JavaEE опыт, создавая \"AbstractDaoSessionFactory\". Очевидно, что каждый из подходов не даст предсказуемых и эффективных результатов.\r\n\r\nВ докладе рассмотрим типичные успешные (и не очень) подходы связывания компонентов, хранения данных, тестирования андроид приложений.\r\n\r\nРасчитан на людей с опытом разработки под Android от 1 года.",
+         "endTimestamp":1385214600,
+         "id":"325",
+         "location":"4",
+         "presenterIds":[
+            "107"
+         ],
+         "startTimestamp":1385211900,
+         "subtype":"SESSION",
+         "title":"Android app architecture (anti-)patterns",
+         "webLink":"http://www.uamobile.org/question/android-app-architecture-anti-patterns"
       },
-      { "description" : "В этом докладе будут рассмотрены основные подходы при построении интерфейса Windows Phone, позволяющие сделать его максимально удобным для пользователя.",
-        "endTimestamp" : 1385214600,
-        "id" : "318",
-        "location" : "5",
-        "presenterIds" : [ "234" ],
-        "startTimestamp" : 1385211900,
-        "subtype" : "SESSION",
-        "title" : "Построение интерфейсов в Windows Phone приложениях",
-        "webLink" : "http://www.uamobile.org/question/postroenie-interfeysov-v-windows-phone-prilozheniyah"
+      {
+         "description":"В этом докладе будут рассмотрены основные подходы при построении интерфейса Windows Phone, позволяющие сделать его максимально удобным для пользователя.",
+         "endTimestamp":1385214600,
+         "id":"318",
+         "location":"5",
+         "presenterIds":[
+            "234"
+         ],
+         "startTimestamp":1385211900,
+         "subtype":"SESSION",
+         "title":"Построение интерфейсов в Windows Phone приложениях",
+         "webLink":"http://www.uamobile.org/question/postroenie-interfeysov-v-windows-phone-prilozheniyah"
       },
-      { "description" : "Backbone.js - это MVC фреймворк, который позволяет создавать динамические интернет приложения. Благодаря своим интересным возможностям и легкости в освоении он стал популярен и,в качестве доказательства этому, используется в таких проектах, как Groupon Now!, Foursquare, LinkedIn Mobile и Airbnb.\r\n\r\nВ этом докладе мы изучим основы Backbone.js и на примере мобильного приложения научимся использовать REST для коммуникации c web сервисами. Также поговорим о полезных инструментах в мире JavaScript.",
-        "endTimestamp" : 1385214600,
-        "id" : "253",
-        "location" : "6",
-        "presenterIds" : [ "65" ],
-        "startTimestamp" : 1385211900,
-        "subtype" : "SESSION",
-        "title" : "Использование Backbone.js для создания мобильных веб-приложений",
-        "webLink" : "http://www.uamobile.org/question/ispolzovanie-backbonejs-dlya-sozdaniya-mobilnyh-veb-prilozheniy"
+      {
+         "description":"Backbone.js - это MVC фреймворк, который позволяет создавать динамические интернет приложения. Благодаря своим интересным возможностям и легкости в освоении он стал популярен и,в качестве доказательства этому, используется в таких проектах, как Groupon Now!, Foursquare, LinkedIn Mobile и Airbnb.\r\n\r\nВ этом докладе мы изучим основы Backbone.js и на примере мобильного приложения научимся использовать REST для коммуникации c web сервисами. Также поговорим о полезных инструментах в мире JavaScript.",
+         "endTimestamp":1385214600,
+         "id":"253",
+         "location":"6",
+         "presenterIds":[
+            "65"
+         ],
+         "startTimestamp":1385211900,
+         "subtype":"SESSION",
+         "title":"Использование Backbone.js для создания мобильных веб-приложений",
+         "webLink":"http://www.uamobile.org/question/ispolzovanie-backbonejs-dlya-sozdaniya-mobilnyh-veb-prilozheniy"
       },
-      { "description" : "Интерес и сложность работы на платформе Андроид в том, что она встречается на огромном количестве устройств всевозможных производителей. То есть приложение под Андроид над которым вы сейчас работаете имеет огромный потенциал, но в силу огромного количества производителей и достаточно демократичных стандартов, вероятность запуска и корректной работы вашего приложения на отдельно взятом устройстве стремится к минимуму. Именно поэтому так важна оптимизация приложения, в частности и его пользовательского интерфейса (user interface), на ранних этапах разработки.\r\n\r\nОптимизировать можно довольно много аспектов: концепцию приложения, дизайн отдельных экранов, процесс коммуникации и непосредственно внедрения. И каждый из этих аспектов будет иметь определенную степень влияния на результат. Я собираюсь рассказать обо всех этих аспектах и поделиться некоторыми техническими трюками, которые использую в своих проектах. Приходите :)",
-        "endTimestamp" : 1385217900,
-        "id" : "249",
-        "location" : "4",
-        "presenterIds" : [ "30" ],
-        "startTimestamp" : 1385215200,
-        "subtype" : "SESSION",
-        "title" : "Оптимизация UI для Android",
-        "webLink" : "http://www.uamobile.org/question/optimizaciya-ui-dlya-android"
+      {
+         "description":"Интерес и сложность работы на платформе Андроид в том, что она встречается на огромном количестве устройств всевозможных производителей. То есть приложение под Андроид над которым вы сейчас работаете имеет огромный потенциал, но в силу огромного количества производителей и достаточно демократичных стандартов, вероятность запуска и корректной работы вашего приложения на отдельно взятом устройстве стремится к минимуму. Именно поэтому так важна оптимизация приложения, в частности и его пользовательского интерфейса (user interface), на ранних этапах разработки.\r\n\r\nОптимизировать можно довольно много аспектов: концепцию приложения, дизайн отдельных экранов, процесс коммуникации и непосредственно внедрения. И каждый из этих аспектов будет иметь определенную степень влияния на результат. Я собираюсь рассказать обо всех этих аспектах и поделиться некоторыми техническими трюками, которые использую в своих проектах. Приходите :)",
+         "endTimestamp":1385217900,
+         "id":"249",
+         "location":"4",
+         "presenterIds":[
+            "30"
+         ],
+         "startTimestamp":1385215200,
+         "subtype":"SESSION",
+         "title":"Оптимизация UI для Android",
+         "webLink":"http://www.uamobile.org/question/optimizaciya-ui-dlya-android"
       },
-      { "description" : "Современная мобильная разработка выставляет высокие требования к качеству интерфейса. С приходом iOS 7 на первый план выходит его динамичность и отзывчивость на действия пользователя. Для удовлетворения всех современных нужд разработчика в его распоряжении имеется механизм AutoLayout. Мы, в Project Office, пользуемся им уже довольно длительный срок, и наработали богатый опыт по преодолению проблем. Для максимального контроля над поведением наших экранов мы отказались от Interface Builder и начали верстать все в коде.\r\n\r\nСтандартное API для AutoLayout довольно многословное, содержит массу обобщений и избыточности. Для преодоления этого барьера мы написали свою библиотеку.\r\n\r\nВ докладе я роскажу о том, как мы ее используем и почему мы отказались от стандартных средств.",
-        "endTimestamp" : 1385217900,
-        "id" : "243",
-        "location" : "5",
-        "presenterIds" : [ "40" ],
-        "startTimestamp" : 1385215200,
-        "subtype" : "SESSION",
-        "title" : "Parus - создание autolayout в коде",
-        "webLink" : "http://www.uamobile.org/question/parus-sozdanie-autolayout-v-kode"
+      {
+         "description":"Современная мобильная разработка выставляет высокие требования к качеству интерфейса. С приходом iOS 7 на первый план выходит его динамичность и отзывчивость на действия пользователя. Для удовлетворения всех современных нужд разработчика в его распоряжении имеется механизм AutoLayout. Мы, в Project Office, пользуемся им уже довольно длительный срок, и наработали богатый опыт по преодолению проблем. Для максимального контроля над поведением наших экранов мы отказались от Interface Builder и начали верстать все в коде.\r\n\r\nСтандартное API для AutoLayout довольно многословное, содержит массу обобщений и избыточности. Для преодоления этого барьера мы написали свою библиотеку.\r\n\r\nВ докладе я роскажу о том, как мы ее используем и почему мы отказались от стандартных средств.",
+         "endTimestamp":1385217900,
+         "id":"243",
+         "location":"5",
+         "presenterIds":[
+            "40"
+         ],
+         "startTimestamp":1385215200,
+         "subtype":"SESSION",
+         "title":"Parus - создание autolayout в коде",
+         "webLink":"http://www.uamobile.org/question/parus-sozdanie-autolayout-v-kode"
       },
-      { "description" : "Reverse engineeging - это получение и исследование исходного кода приложения.\r\n\r\nМы обсудим следующие темы:\r\n\r\n- what is reverse engineeging?\r\n- why reverse engineeging?\r\n- history and basics of decompilers\r\n- when reverse engineeging is legal?\r\n- how and why to protect your code?\r\n- inside jvm internals\r\n- class file structure\r\n- useful tools\r\n- practical examples\r\n\r\nВ ходе доклада будут "изнутри" рассмотрены некоторые популярные Андроид-приложения. Соответствующий пакет будет скачан со смартфона и подвергнут декомпиляции - таким образом нам удастся проанализировать исходный код на Java.",
-        "endTimestamp" : 1385217900,
-        "id" : "327",
-        "location" : "3",
-        "presenterIds" : [ "86" ],
-        "startTimestamp" : 1385215200,
-        "subtype" : "SESSION",
-        "title" : "Reverse engineeging of Android aplication. What is behind?",
-        "webLink" : "http://www.uamobile.org/question/reverse-engineeging-android-aplication-what-behind"
+      {
+         "description":"Reverse engineeging - это получение и исследование исходного кода приложения.\r\n\r\nМы обсудим следующие темы:\r\n\r\n- what is reverse engineeging?\r\n- why reverse engineeging?\r\n- history and basics of decompilers\r\n- when reverse engineeging is legal?\r\n- how and why to protect your code?\r\n- inside jvm internals\r\n- class file structure\r\n- useful tools\r\n- practical examples\r\n\r\nВ ходе доклада будут \"изнутри\" рассмотрены некоторые популярные Андроид-приложения. Соответствующий пакет будет скачан со смартфона и подвергнут декомпиляции - таким образом нам удастся проанализировать исходный код на Java.",
+         "endTimestamp":1385217900,
+         "id":"327",
+         "location":"3",
+         "presenterIds":[
+            "86"
+         ],
+         "startTimestamp":1385215200,
+         "subtype":"SESSION",
+         "title":"Reverse engineeging of Android aplication. What is behind?",
+         "webLink":"http://www.uamobile.org/question/reverse-engineeging-android-aplication-what-behind"
       },
-      { "description" : "Что делать если необходимо написать одно приложение для нескольких клиентов, и различия в приложениях - минимальны? Можно создавать бренчи и постоянно их мержить с основным проектом, а можно сделать одно приложение шаблон.\r\n\r\nБазово, используется одно приложение, которое кастомизируется для каждого клиента. Что бы создать различные стили для каждого из клиентов, можно использовать T4. Тогда редактирование стилей не превращается в ад.\r\n\r\nКаждое приложение необходимо выгрузить в маркет - а для того что бы сделать из одно приложения несколько, проще использовать T4 для задания основных свойств приложения.\r\n\r\nКаждый клиент хочет видеть свои картинки и свой бренд в приложении. Как легко сделать брендирование приложений с помощью Т4 и условий компилятора.\r\nPost и pre-bild команды для создания и правильного именования билдов.",
-        "endTimestamp" : 1385217900,
-        "id" : "226",
-        "location" : "6",
-        "presenterIds" : [ "240" ],
-        "startTimestamp" : 1385215200,
-        "subtype" : "SESSION",
-        "title" : "Построение шаблонов Windows Phone приложений",
-        "webLink" : "http://www.uamobile.org/question/postroenie-shablonov-windows-phone-prilozheniy"
+      {
+         "description":"Что делать если необходимо написать одно приложение для нескольких клиентов, и различия в приложениях - минимальны? Можно создавать бренчи и постоянно их мержить с основным проектом, а можно сделать одно приложение шаблон.\r\n\r\nБазово, используется одно приложение, которое кастомизируется для каждого клиента. Что бы создать различные стили для каждого из клиентов, можно использовать T4. Тогда редактирование стилей не превращается в ад.\r\n\r\nКаждое приложение необходимо выгрузить в маркет - а для того что бы сделать из одно приложения несколько, проще использовать T4 для задания основных свойств приложения.\r\n\r\nКаждый клиент хочет видеть свои картинки и свой бренд в приложении. Как легко сделать брендирование приложений с помощью Т4 и условий компилятора.\r\nPost и pre-bild команды для создания и правильного именования билдов.",
+         "endTimestamp":1385217900,
+         "id":"226",
+         "location":"6",
+         "presenterIds":[
+            "240"
+         ],
+         "startTimestamp":1385215200,
+         "subtype":"SESSION",
+         "title":"Построение шаблонов Windows Phone приложений",
+         "webLink":"http://www.uamobile.org/question/postroenie-shablonov-windows-phone-prilozheniy"
       },
-      { "description" : "Часто возникает задача разработать мобильное приложение, которое взаимодействует с сервером, который разрабатывает другая команда. Этот сервер может быть полностью не готов к определённому сроку, либо быть нестабильным и с багами, но есть документ с описанием server api.\r\n\r\nКакие есть методы и пути эффективной разработки мобильных клиентов в таких условиях?\r\n\r\nМы рассмотрим:\r\n\r\n1) Приложение "Православный мобильный портал" как пример сервиса, использующего подключение к многочисленным серверным ресурсам. Особенности работы продукта, связанные с любительским уровнем реализации многих церковных интернет-ресурсов.\r\n2) Промежуточный сервер-заглушка: технологии, инструменты реализации и базовая архитектура.\r\n3) Разработка интерфейсов по заданной спецификации - традиционный способ перехода к production-системе.\r\n4) Новая архитектура: подключение основного сервера к серверу-заглушке. "Шпаклевка" неточностей в реализации спецификации. Преимущества единого централизованного интерфейса при работе с сервером-заглушкой. Использование кеширования в центральном сервере.\r\n5) Преимущества централизованного интерфейса при изменениях и неполадках в серверах - источниках данных.",
-        "endTimestamp" : 1385217900,
-        "id" : "329",
-        "location" : "2",
-        "presenterIds" : [ "108" ],
-        "startTimestamp" : 1385215200,
-        "subtype" : "SESSION",
-        "title" : "Эффективная разработка мобильного приложения, когда сервер не готов",
-        "webLink" : "http://www.uamobile.org/question/effektivnaya-razrabotka-mobilnogo-prilozheniya-kogda-server-ne-gotov"
+      {
+         "description":"Часто возникает задача разработать мобильное приложение, которое взаимодействует с сервером, который разрабатывает другая команда. Этот сервер может быть полностью не готов к определённому сроку, либо быть нестабильным и с багами, но есть документ с описанием server api.\r\n\r\nКакие есть методы и пути эффективной разработки мобильных клиентов в таких условиях?\r\n\r\nМы рассмотрим:\r\n\r\n1) Приложение \"Православныймобильныйпортал\" как пример сервиса, использующего подключение к многочисленным серверным ресурсам. Особенности работы продукта, связанные с любительским уровнем реализации многих церковных интернет-ресурсов.\r\n2) Промежуточный сервер-заглушка: технологии, инструменты реализации и базовая архитектура.\r\n3) Разработка интерфейсов по заданной спецификации - традиционный способ перехода к production-системе.\r\n4) Новая архитектура: подключение основного сервера к серверу-заглушке. \"Шпаклевка\" неточностей в реализации спецификации. Преимущества единого централизованного интерфейса при работе с сервером-заглушкой. Использование кеширования в центральном сервере.\r\n5) Преимущества централизованного интерфейса при изменениях и неполадках в серверах - источниках данных.",
+         "endTimestamp":1385217900,
+         "id":"329",
+         "location":"2",
+         "presenterIds":[
+            "108"
+         ],
+         "startTimestamp":1385215200,
+         "subtype":"SESSION",
+         "title":"Эффективная разработка мобильного приложения, когда сервер не готов",
+         "webLink":"http://www.uamobile.org/question/effektivnaya-razrabotka-mobilnogo-prilozheniya-kogda-server-ne-gotov"
       },
-      { "description" : "Расскажем о процессе создания абсолютно нового продукта, подготовке к пиар кампании, подготовке к кикстартеру и как на кикстартере вести проект.",
-        "endTimestamp" : 1385221200,
-        "id" : "347",
-        "location" : "5",
-        "presenterIds" : [ "105" ],
-        "startTimestamp" : 1385218500,
-        "subtype" : "SESSION",
-        "title" : "От идеи до $150 000 на Кикстартере",
-        "webLink" : "http://www.uamobile.org/question/ot-idei-do-150-000-na-kikstartere"
+      {
+         "description":"Расскажем о процессе создания абсолютно нового продукта, подготовке к пиар кампании, подготовке к кикстартеру и как на кикстартере вести проект.",
+         "endTimestamp":1385221200,
+         "id":"347",
+         "location":"5",
+         "presenterIds":[
+            "105"
+         ],
+         "startTimestamp":1385218500,
+         "subtype":"SESSION",
+         "title":"От идеи до $150 000 на Кикстартере",
+         "webLink":"http://www.uamobile.org/question/ot-idei-do-150-000-na-kikstartere"
       },
-      { "description" : "В докладе будет рассмотрено, зачем и когда нужно анимировать пользовательский интерфейс в мобильных приложениях, какие существуют подходы к анимации пользовательского интерфейса на iOS, а также что нового появилось в iOS 7 SDK для анимации на уровне UIView, анимирование интерактивных переходов между UIViewController, технология UIKit Dynamics.",
-        "endTimestamp" : 1385221200,
-        "id" : "335",
-        "location" : "6",
-        "presenterIds" : [ "2" ],
-        "startTimestamp" : 1385218500,
-        "subtype" : "SESSION",
-        "title" : "Анимация пользовательского интерфейса на iOS 7",
-        "webLink" : "http://www.uamobile.org/question/animaciya-polzovatelskogo-interfeysa-na-ios-7"
+      {
+         "description":"В докладе будет рассмотрено, зачем и когда нужно анимировать пользовательский интерфейс в мобильных приложениях, какие существуют подходы к анимации пользовательского интерфейса на iOS, а также что нового появилось в iOS 7 SDK для анимации на уровне UIView, анимирование интерактивных переходов между UIViewController, технология UIKit Dynamics.",
+         "endTimestamp":1385221200,
+         "id":"335",
+         "location":"6",
+         "presenterIds":[
+            "2"
+         ],
+         "startTimestamp":1385218500,
+         "subtype":"SESSION",
+         "title":"Анимация пользовательского интерфейса на iOS 7",
+         "webLink":"http://www.uamobile.org/question/animaciya-polzovatelskogo-interfeysa-na-ios-7"
       },
-      { "description" : "Что такое NFC? Новая модная аббревиатура или все-таки полезный инструмент общения вашего мобильного устройства с внешним миром? Можно ли быстро и эффективно передать информацию по воздуху в одно касание? Эти и многие другие вопросы очень часто задают себе пользователи и разработчики по всему миру.\r\n\r\n
-Ответить на первый вопрос весьма легко. NFC – это технология беспроводной высокочастотной связи малого радиуса действия, которая дает возможность обмена данными между устройствами, находящимися на расстоянии около 10 сантиметров. Наиболее удачный пример внедрения - это идентификации сотрудников в офисных помещениях и предоставление доступа в определенные комнаты, столовую, вход в здание.\r\n\r\n
-Но как же применить столь потрясающую технологию в разработке Андроид приложений? Как собрать простой пример и получить заветные ID пользователя? Все это, и немного больше, рассмотрим в рамках доклада.",
-        "endTimestamp" : 1385221200,
-        "id" : "222",
-        "location" : "2",
-        "presenterIds" : [ "53" ],
-        "startTimestamp" : 1385218500,
-        "subtype" : "SESSION",
-        "title" : "NFC и Android beam в вашей жизни",
-        "webLink" : "http://www.uamobile.org/question/nfc-i-android-beam-v-vashey-zhizni"
+      {
+         "description":"Что такое NFC? Новая модная аббревиатура или все-таки полезный инструмент общения вашего мобильного устройства с внешним миром? Можно ли быстро и эффективно передать информацию по воздуху в одно касание? Эти и многие другие вопросы очень часто задают себе пользователи и разработчики по всему миру.\r\n\r\nОтветить на первый вопрос весьма легко. NFC – это технология беспроводной высокочастотной связи малого радиуса действия, которая дает возможность обмена данными между устройствами, находящимися на расстоянии около 10 сантиметров. Наиболее удачный пример внедрения - это идентификации сотрудников в офисных помещениях и предоставление доступа в определенные комнаты, столовую, вход в здание.\r\n\r\nНо как же применить столь потрясающую технологию в разработке Андроид приложений? Как собрать простой пример и получить заветные ID пользователя? Все это, и немного больше, рассмотрим в рамках доклада.",
+         "endTimestamp":1385221200,
+         "id":"222",
+         "location":"2",
+         "presenterIds":[
+            "53"
+         ],
+         "startTimestamp":1385218500,
+         "subtype":"SESSION",
+         "title":"NFC и Android beam в вашей жизни",
+         "webLink":"http://www.uamobile.org/question/nfc-i-android-beam-v-vashey-zhizni"
       }
-    ] }
+   ]
+}

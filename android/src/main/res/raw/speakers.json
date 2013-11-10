@@ -1,200 +1,228 @@
-{ "presenters" : [ { "bio" : "Mobile Architect at Swivl.В прошлом CTO в компании AppMania http://appmania.ua (игровая индустрия: iOS / Android). Игры с миллионными аудиториями. Co-Founder в SoftGames UA www.softgames.biz",
-        "id" : "236",
-        "name" : "Сергей Меренков",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://twitter.com/sergeimer",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/1237496_570006289702437_317890328_n.png"
+{
+   "presenters":[
+      {
+         "bio":"Mobile Architect at Swivl.В прошлом CTO в компании AppMania http://appmania.ua (игровая индустрия: iOS / Android). Игры с миллионными аудиториями. Co-Founder в SoftGames UA www.softgames.biz",
+         "id":"236",
+         "name":"Сергей Меренков",
+         "plusoneUrl":"",
+         "publicPlusId":"http://twitter.com/sergeimer",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/1237496_570006289702437_317890328_n.png"
       },
-      { "bio" : "Игорь Томич - владелец студии разработки мобильного ПО, огранизатор и докладчик на Kharkiv Mobile Developers и просто многолетний практик разработки под платформу iOS c большим опытом преподавания.",
-        "id" : "317",
-        "name" : "Игорь Томич",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/profile/view?id=13414971",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/igor.png"
+      {
+         "bio":"Игорь Томич - владелец студии разработки мобильного ПО, огранизатор и докладчик на Kharkiv Mobile Developers и просто многолетний практик разработки под платформу iOS c большим опытом преподавания.",
+         "id":"317",
+         "name":"Игорь Томич",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/profile/view?id=13414971",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/igor.png"
       },
-      { "bio" : "Cocoa-гуру. Опыт разработки коммерческих продуктов под платформы Apple более 10 лет.",
-        "id" : "2",
-        "name" : "Виктория Глоба",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://twitter.com/macbuka",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vikagloba.jpg"
+      {
+         "bio":"Cocoa-гуру. Опыт разработки коммерческих продуктов под платформы Apple более 10 лет.",
+         "id":"2",
+         "name":"Виктория Глоба",
+         "plusoneUrl":"",
+         "publicPlusId":"https://twitter.com/macbuka",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vikagloba.jpg"
       },
-      { "bio" : "iOS-программист, интересуюсь архитектурой, семантикой и философией программирования. Помогаю писать код небольшой команде iOS программистов харьковском Ciklum. Специализируюсь на бизнес-проектах, асинхронном UI, кастомных интерфесах.",
-        "id" : "40",
-        "name" : "Алексей Демедецкий",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/pub/alexey-demedetskiy/23/a73/11b",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/alexey_demedetskiy_1.png"
+      {
+         "bio":"iOS-программист, интересуюсь архитектурой, семантикой и философией программирования. Помогаю писать код небольшой команде iOS программистов харьковском Ciklum. Специализируюсь на бизнес-проектах, асинхронном UI, кастомных интерфесах.",
+         "id":"40",
+         "name":"Алексей Демедецкий",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/pub/alexey-demedetskiy/23/a73/11b",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/alexey_demedetskiy_1.png"
       },
-      { "bio" : "iOS разработчик в Sitecore Ukraine. Начал работу с мобильными устройствами c 2008 как foreinsic-специалист. С 2010 года занимается разработкой под iOS. Интересуется вопросами Continuous Integration и Dependency Management для iOS проектов.",
-        "id" : "112",
-        "name" : "Александр Додатко",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://uamobile.org/users/@dodikk88",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/dodatko-corporatephoto.jpg"
+      {
+         "bio":"iOS разработчик в Sitecore Ukraine. Начал работу с мобильными устройствами c 2008 как foreinsic-специалист. С 2010 года занимается разработкой под iOS. Интересуется вопросами Continuous Integration и Dependency Management для iOS проектов.",
+         "id":"112",
+         "name":"Александр Додатко",
+         "plusoneUrl":"",
+         "publicPlusId":"http://uamobile.org/users/@dodikk88",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/dodatko-corporatephoto.jpg"
       },
-      { "bio" : "Head of Mobile Development в RnR Music. 7 лет опыта разработки, 4 года reverse engineering, 3 - native apps. Основатель CocoaHeads Ukraine.",
-        "id" : "54",
-        "name" : "Максим Базалий",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://www.linkedin.com/in/mbazaliy",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/max.png"
+      {
+         "bio":"Head of Mobile Development в RnR Music. 7 лет опыта разработки, 4 года reverse engineering, 3 - native apps. Основатель CocoaHeads Ukraine.",
+         "id":"54",
+         "name":"Максим Базалий",
+         "plusoneUrl":"",
+         "publicPlusId":"https://www.linkedin.com/in/mbazaliy",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/max.png"
       },
-      { "bio" : "Веду тренинги по ИТ c 1993 года, опыт постоянных выступлений на конференциях - с 2007 года, работал в Sun Microsystems, Oracle, сейчас работаю в JetBrains.",
-        "id" : "84",
-        "name" : "Филипп Торчинский",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/profile/view?id=5343057",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/philip_torchinsky.png"
+      {
+         "bio":"Веду тренинги по ИТ c 1993 года, опыт постоянных выступлений на конференциях - с 2007 года, работал в Sun Microsystems, Oracle, сейчас работаю в JetBrains.",
+         "id":"84",
+         "name":"Филипп Торчинский",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/profile/view?id=5343057",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/philip_torchinsky.png"
       },
-      { "bio" : "System architect. В IT c 2000 года. Опыт разработки в C++ и Java. Различные домены (telecom, e-commerce) и компании (GlobalLogic, NetCracker, sysIQ).",
-        "id" : "86",
-        "name" : "Николай Бова",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://www.facebook.com/myk.bova",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/fileCNORxg"
+      {
+         "bio":"System architect. В IT c 2000 года. Опыт разработки в C++ и Java. Различные домены (telecom, e-commerce) и компании (GlobalLogic, NetCracker, sysIQ).",
+         "id":"86",
+         "name":"Николай Бова",
+         "plusoneUrl":"",
+         "publicPlusId":"https://www.facebook.com/myk.bova",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/fileCNORxg"
       },
-      { "bio" : "",
-        "id" : "232",
-        "name" : "Daniel Fages",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://twitter.com/Genymobile",
-        "thumbnailUrl" : "http://uk.droidcon.com/2013/wp-content/uploads/2013/10/np_DanielFages.png"
+      {
+         "bio":"",
+         "id":"232",
+         "name":"Daniel Fages",
+         "plusoneUrl":"",
+         "publicPlusId":"http://twitter.com/Genymobile",
+         "thumbnailUrl":"http://uk.droidcon.com/2013/wp-content/uploads/2013/10/np_DanielFages.png"
       },
-      { "bio" : "Борис Працюк - Android архитектор/консультант в Ciklum. Участвовал в проектах RingCentral Mobile, Spotflux, Samsung Ebook reader, Cluedo logs, KPI ua. Активный участник GDG Kyiv, основатель IEEE KPI Student branch. Обладатель первых мест в конкурсах: HTC Android Developers Contest 2.0 Hackathon, Global Android Dev Camp (GADC) Hackathon, Startup weekend Project Volo.",
-        "id" : "53",
-        "name" : "Борис Працюк",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/in/pratsiuk",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/borys.png"
+      {
+         "bio":"Борис Працюк - Android архитектор/консультант в Ciklum. Участвовал в проектах RingCentral Mobile, Spotflux, Samsung Ebook reader, Cluedo logs, KPI ua. Активный участник GDG Kyiv, основатель IEEE KPI Student branch. Обладатель первых мест в конкурсах: HTC Android Developers Contest 2.0 Hackathon, Global Android Dev Camp (GADC) Hackathon, Startup weekend Project Volo.",
+         "id":"53",
+         "name":"Борис Працюк",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/in/pratsiuk",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/borys.png"
       },
-      { "bio" : "Разработчик мобильных Яндекс.Карт под Android.",
-        "id" : "230",
-        "name" : "Алексей Поляков",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/alexey_polyakov.jpg"
+      {
+         "bio":"Разработчик мобильных Яндекс.Карт под Android.",
+         "id":"230",
+         "name":"Алексей Поляков",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/alexey_polyakov.jpg"
       },
-      { "bio" : "Андроид разработчик в Attendify с четырёхлетним опытом разработки для Android. Реализованные проекты: uklon, mobile taxi. В данный момент Максим работает над улучшением клиента attendify Android версии.",
-        "id" : "213",
-        "name" : "Максим Левицкий",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/avatar.jpg"
+      {
+         "bio":"Андроид разработчик в Attendify с четырёхлетним опытом разработки для Android. Реализованные проекты: uklon, mobile taxi. В данный момент Максим работает над улучшением клиента attendify Android версии.",
+         "id":"213",
+         "name":"Максим Левицкий",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/avatar.jpg"
       },
-      { "bio" : "Илья Родин - Senior Android Engineer в компании Lohika. С 2009 года в мобильной разработке (Android, Windows Phone, J2ME, Windows Mobile), принимал участие в работе над широким спектром разнонаправленных и разнотипных мобильных проектах.",
-        "id" : "214",
-        "name" : "Илья Родин",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/pub/illya-rodin/19/374/54a",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/dsc_4245.png"
+      {
+         "bio":"Илья Родин - Senior Android Engineer в компании Lohika. С 2009 года в мобильной разработке (Android, Windows Phone, J2ME, Windows Mobile), принимал участие в работе над широким спектром разнонаправленных и разнотипных мобильных проектах.",
+         "id":"214",
+         "name":"Илья Родин",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/pub/illya-rodin/19/374/54a",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/dsc_4245.png"
       },
-      { "bio" : "Татьяна Завялова, Senior UX Design Engineer at Cogniance. С 2005 года работаю дизайнером. Училась в Нидерландах по программе User System Interaction. За время учебы запустили свой стартап (навигационное приложение для голландских велосипедистов), собравших несколько европейских наград, в том числе NUMA 2012. В свободное время пишу для DOU и готовлюсь бежать полу-марафон.",
-        "id" : "30",
-        "name" : "Татьяна Завялова",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/in/tanyazavyalova",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/tanya_zavyalova.png"
+      {
+         "bio":"Татьяна Завялова, Senior UX Design Engineer at Cogniance. С 2005 года работаю дизайнером. Училась в Нидерландах по программе User System Interaction. За время учебы запустили свой стартап (навигационное приложение для голландских велосипедистов), собравших несколько европейских наград, в том числе NUMA 2012. В свободное время пишу для DOU и готовлюсь бежать полу-марафон.",
+         "id":"30",
+         "name":"Татьяна Завялова",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/in/tanyazavyalova",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/tanya_zavyalova.png"
       },
-      { "bio" : "Android developer в продуктовой компании Sitecore. В прошлом руководитель андроид направления в аутсорсинговой компании. Координатор и со-организатором Google Developers Group Dnipropetrovsk, интересуется xp/agile инженерными практиками.",
-        "id" : "107",
-        "name" : "Кирилл Зотин",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/in/kzotin",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/fileXB2YQV"
+      {
+         "bio":"Android developer в продуктовой компании Sitecore. В прошлом руководитель андроид направления в аутсорсинговой компании. Координатор и со-организатором Google Developers Group Dnipropetrovsk, интересуется xp/agile инженерными практиками.",
+         "id":"107",
+         "name":"Кирилл Зотин",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/in/kzotin",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/fileXB2YQV"
       },
-      { "bio" : "Сергей Сергеевич Байдачный работает в области разработки программного обеспечения с 2000 года, имеет статус сертифицированного тренера Microsoft и является автором нескольких книг, посвященных разработке приложений на платформе .NET. За время своей карьеры, Сергей руководил большим количеством проектов, утилизирующих различные технологии, включая C#/XAML, SQL Server, SharePoint и другие. Блог автора доступен по адресу http://baydachnyy.com",
-        "id" : "234",
-        "name" : "Сергей Байдачный",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/sbaydach1.png"
+      {
+         "bio":"Сергей Сергеевич Байдачный работает в области разработки программного обеспечения с 2000 года, имеет статус сертифицированного тренера Microsoft и является автором нескольких книг, посвященных разработке приложений на платформе .NET. За время своей карьеры, Сергей руководил большим количеством проектов, утилизирующих различные технологии, включая C#/XAML, SQL Server, SharePoint и другие. Блог автора доступен по адресу http://baydachnyy.com",
+         "id":"234",
+         "name":"Сергей Байдачный",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/sbaydach1.png"
       },
-      { "bio" : "Антон Полховский - Windows Phone разработчик компании Daxx. Работает с Windows Phone с момента его появления на рынке. Участвовал в разработке проектов для Rabobank, SNS, ASN, RegioBank, De Telegraaf, AlJazeera.",
-        "id" : "240",
-        "name" : "Антон Полховский",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/capture.png"
+      {
+         "bio":"Антон Полховский - Windows Phone разработчик компании Daxx. Работает с Windows Phone с момента его появления на рынке. Участвовал в разработке проектов для Rabobank, SNS, ASN, RegioBank, De Telegraaf, AlJazeera.",
+         "id":"240",
+         "name":"Антон Полховский",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/capture.png"
       },
-      { "bio" : "Dryce Abadlia is an R&D engineer at Nuggeta, specialising in user interfaces and ergonomy. If that sounds like you too, why not grab your chance to meet him and discover his thoughts?",
-        "id" : "97",
-        "name" : "Dryce Abadlia ",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://twitter.com/nuggeta",
-        "thumbnailUrl" : "http://uk.droidcon.com/2013/wp-content/uploads/2013/09/dryce.jpg"
+      {
+         "bio":"Dryce Abadlia is an R&D engineer at Nuggeta, specialising in user interfaces and ergonomy. If that sounds like you too, why not grab your chance to meet him and discover his thoughts?",
+         "id":"97",
+         "name":"Dryce Abadlia ",
+         "plusoneUrl":"",
+         "publicPlusId":"https://twitter.com/nuggeta",
+         "thumbnailUrl":"http://uk.droidcon.com/2013/wp-content/uploads/2013/09/dryce.jpg"
       },
-      { "bio" : "Сергей Поплавский – сотрудник компании Microsoft, который отвечает за развитие платформы Windows Azure в Украине. За время своей работы он успел провести более 30 глубоких технических тренингов по этой тематике, участвовал в разработке 5-ти проектов на платформе Windows Azure.",
-        "id" : "228",
-        "name" : "Сергей Поплавский",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/sergey_poplavsky.png"
+      {
+         "bio":"Сергей Поплавский – сотрудник компании Microsoft, который отвечает за развитие платформы Windows Azure в Украине. За время своей работы он успел провести более 30 глубоких технических тренингов по этой тематике, участвовал в разработке 5-ти проектов на платформе Windows Azure.",
+         "id":"228",
+         "name":"Сергей Поплавский",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/sergey_poplavsky.png"
       },
-      { "bio" : "Владимир Суров - разработчик продуктовой компании Intellijoy. За последние 2 года работал с платформами Android, WindowsPhone, WinRT, Unity3D и Tizen.",
-        "id" : "71",
-        "name" : "Владимир Суров",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vladimirsu.png"
+      {
+         "bio":"Владимир Суров - разработчик продуктовой компании Intellijoy. За последние 2 года работал с платформами Android, WindowsPhone, WinRT, Unity3D и Tizen.",
+         "id":"71",
+         "name":"Владимир Суров",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vladimirsu.png"
       },
-      { "bio" : "Вадим Миргород является профессиональным web-разработчиком и экспертом в области Open Source. Он интересуется новыми технологиями и инновациями. Также Вадим является активным контрибутором системы Drupal и поддерживает несколько расширений для Backbone.js. Вадим - опытный спикер, который участвовал на международных конференциях в Киеве, Москве, Праге, Мюнхене, Чикаго, и Портленде.",
-        "id" : "65",
-        "name" : "Вадим Миргород",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://twitter.com/dealancer",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/10580_10200513327688123_462039059_n.png"
+      {
+         "bio":"Вадим Миргород является профессиональным web-разработчиком и экспертом в области Open Source. Он интересуется новыми технологиями и инновациями. Также Вадим является активным контрибутором системы Drupal и поддерживает несколько расширений для Backbone.js. Вадим - опытный спикер, который участвовал на международных конференциях в Киеве, Москве, Праге, Мюнхене, Чикаго, и Портленде.",
+         "id":"65",
+         "name":"Вадим Миргород",
+         "plusoneUrl":"",
+         "publicPlusId":"https://twitter.com/dealancer",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/10580_10200513327688123_462039059_n.png"
       },
-      { "bio" : "CEO, Founder at iblazr. За год прошел путь от идеи, создания прототипов продукта, сбора команды, сбора денег до запуска массового производства.",
-        "id" : "105",
-        "name" : "Влад Тисленко",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://vk.com/tislenkov",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vladtislenko.png"
+      {
+         "bio":"CEO, Founder at iblazr. За год прошел путь от идеи, создания прототипов продукта, сбора команды, сбора денег до запуска массового производства.",
+         "id":"105",
+         "name":"Влад Тисленко",
+         "plusoneUrl":"",
+         "publicPlusId":"http://vk.com/tislenkov",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/vladtislenko.png"
       },
-      { "bio" : "Marketing Director, Cupid-Labs.com at Cupid plc. Опыт работы более 5 лет в сфере IT в международных компаниях в UK, Germany, USA.",
-        "id" : "92",
-        "name" : "Анастасия Билоус",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/in/bilous",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/30998_456751161030122_1628131023_n.png"
+      {
+         "bio":"Marketing Director, Cupid-Labs.com at Cupid plc. Опыт работы более 5 лет в сфере IT в международных компаниях в UK, Germany, USA.",
+         "id":"92",
+         "name":"Анастасия Билоус",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/in/bilous",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/30998_456751161030122_1628131023_n.png"
       },
-      { "bio" : "Разработчик мобильных приложений iOS и андроид. В прошлом - разработчик мобильных приложений, гео-информационных систем и распределенных систем рендеринга геоданных.",
-        "id" : "67",
-        "name" : "Олег Шанюк",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://twitter.com/gelosi",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/88cf6516-0127-4004-a0be-1f0b9edbbc18.jpg"
+      {
+         "bio":"Разработчик мобильных приложений iOS и андроид. В прошлом - разработчик мобильных приложений, гео-информационных систем и распределенных систем рендеринга геоданных.",
+         "id":"67",
+         "name":"Олег Шанюк",
+         "plusoneUrl":"",
+         "publicPlusId":"http://twitter.com/gelosi",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/88cf6516-0127-4004-a0be-1f0b9edbbc18.jpg"
       },
-      { "bio" : "Xamarin Lead Developer, опыт работы - более 4х лет. Докладчик многих конференций по теме Xamarin.",
-        "id" : "59",
-        "name" : "Александр Леущенко",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.linkedin.com/pub/olexandr-leuschenko/45/116/747",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/avatar.png"
+      {
+         "bio":"Xamarin Lead Developer, опыт работы - более 4х лет. Докладчик многих конференций по теме Xamarin.",
+         "id":"59",
+         "name":"Александр Леущенко",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.linkedin.com/pub/olexandr-leuschenko/45/116/747",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/avatar.png"
       },
-      { "bio" : "2007-2009 - младший научный сотрудник Института программных систем НАН Украины, направление - высокопроизводительные параллельные вычисления.
-2009-2011 - инженер-программист, разработчик мобильных продуктов, архитектор программных проектов, М-Платформа.
-2011-2012 - генеральный директор (Системные мобильные технологии), управляющий партнер (М-Платформа).
-с 2013 - генеральный директор (М-Платформа), управляющий партнер (Системные мобильные технологии).",
-        "id" : "108",
-        "name" : "Николай Котюк",
-        "plusoneUrl" : "",
-        "publicPlusId" : "https://www.facebook.com/kotyuck",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/mykola-kotyuck.png"
+      {
+         "bio":"2007-2009 - младший научный сотрудник Института программных систем НАН Украины, направление - высокопроизводительные параллельные вычисления. 2009-2011 - инженер-программист, разработчик мобильных продуктов, архитектор программных проектов, М-Платформа. 2011-2012 - генеральный директор (Системные мобильные технологии), управляющий партнер (М-Платформа). C 2013 - генеральный директор (М-Платформа), управляющий партнер (Системные мобильные технологии).",
+         "id":"108",
+         "name":"Николай Котюк",
+         "plusoneUrl":"",
+         "publicPlusId":"https://www.facebook.com/kotyuck",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/mykola-kotyuck.png"
       },
-      { "bio" : "Ведущий специалист систем сканирования и распознавания в компании Тритон 3000.",
-        "id" : "211",
-        "name" : "Андрей Петров",
-        "plusoneUrl" : "",
-        "publicPlusId" : "",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/andey_petrov.png"
+      {
+         "bio":"Ведущий специалист систем сканирования и распознавания в компании Тритон 3000.",
+         "id":"211",
+         "name":"Андрей Петров",
+         "plusoneUrl":"",
+         "publicPlusId":"",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/andey_petrov.png"
       },
-      { "bio" : "Android developer. Team Leader Android-розробки в стартапі.",
-        "id" : "88",
-        "name" : "Алексадр Шаповалов",
-        "plusoneUrl" : "",
-        "publicPlusId" : "http://www.facebook.com/shaovalovos",
-        "thumbnailUrl" : "http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/shapovalov.png"
+      {
+         "bio":"Android developer. Team Leader Android-розробки в стартапі.",
+         "id":"88",
+         "name":"Алексадр Шаповалов",
+         "plusoneUrl":"",
+         "publicPlusId":"http://www.facebook.com/shaovalovos",
+         "thumbnailUrl":"http://uamobile.org/sites/default/files/styles/user_avatarka_100x100/public/shapovalov.png"
       }
-    ] }
+   ]
+}
