@@ -14,7 +14,6 @@
   limitations under the License.
   -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -30,7 +29,7 @@
             style="@style/SessionDetailSubtitle" />
     </RelativeLayout>
 
-    <com.funkyandroid.droidcon.uk.iosched.ui.widget.ObservableScrollView
+    <org.uamobile.iosched.ui.widget.ObservableScrollView
         android:id="@+id/scroll_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -122,6 +121,6 @@
                 android:layout_height="@dimen/add_to_schedule_button_height" />
         </FrameLayout>
 
-    </com.funkyandroid.droidcon.uk.iosched.ui.widget.ObservableScrollView>
+    </org.uamobile.iosched.ui.widget.ObservableScrollView>
 
 </LinearLayout>
