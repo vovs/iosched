@@ -86,7 +86,7 @@ public class SyncHelper {
 
         LOGI(TAG, "Performing sync");
 
-        if ((flags & FLAG_SYNC_LOCAL) != 0) {
+        //if ((flags & FLAG_SYNC_LOCAL) != 0) {
             final long startLocal = System.currentTimeMillis();
             final boolean localParse = localVersion < LOCAL_VERSION_CURRENT;
             LOGD(TAG, "found localVersion=" + localVersion + " and LOCAL_VERSION_CURRENT="
@@ -119,7 +119,7 @@ public class SyncHelper {
                 if (syncResult != null) {
                     ++syncResult.stats.numUpdates; // TODO: better way of indicating progress?
                     ++syncResult.stats.numEntries;
-                }
+            //    }
             }
 
             LOGD(TAG, "Local sync took " + (System.currentTimeMillis() - startLocal) + "ms");
@@ -136,7 +136,7 @@ public class SyncHelper {
             batch = new ArrayList<ContentProviderOperation>();
         }
 
-        if ((flags & FLAG_SYNC_REMOTE) != 0 && isOnline()) {
+        /*if ((flags & FLAG_SYNC_REMOTE) != 0 && isOnline()) {
             ConferenceAPI conferenceAPI = new ConferenceAPI();
             final long startRemote = System.currentTimeMillis();
             LOGI(TAG, "Remote syncing announcements");
@@ -187,7 +187,7 @@ public class SyncHelper {
             throw new RuntimeException("Problem applying batch operation", e);
         } catch (OperationApplicationException e) {
             throw new RuntimeException("Problem applying batch operation", e);
-        }
+        }*/
     }
 
     public void addOrRemoveSessionFromSchedule(Context context, String sessionId,
