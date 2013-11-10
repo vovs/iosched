@@ -2,27 +2,27 @@
    "rooms":[
       {
          "id":"1",
-         "floor":"",
+         "floor":"SoftSkill",
          "name":"Room 1"
       },
       {
          "id":"2",
-         "floor":"",
+         "floor":"iOs",
          "name":"Room 2"
       },
       {
          "id":"3",
-         "floor":"",
+         "floor":"Android",
          "name":"Room 3"
       },
       {
          "id":"4",
-         "floor":"",
+         "floor":"Windows",
          "name":"Room 4"
       },
       {
          "id":"5",
-         "floor":"",
+         "floor":"Mix zone",
          "name":"Room 5"
       }
    ]

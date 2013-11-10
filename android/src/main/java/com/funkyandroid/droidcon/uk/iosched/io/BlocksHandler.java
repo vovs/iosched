@@ -23,6 +23,7 @@ import com.funkyandroid.droidcon.uk.iosched.provider.ScheduleContract;
 import com.funkyandroid.droidcon.uk.iosched.provider.ScheduleContract.Blocks;
 import com.funkyandroid.droidcon.uk.iosched.util.Lists;
 import com.funkyandroid.droidcon.uk.iosched.util.ParserUtils;
+import com.funkyandroid.droidcon.uk.iosched.util.UIUtils;
 
 import android.content.ContentProviderOperation;
 import android.content.Context;
@@ -88,8 +89,8 @@ public class BlocksHandler extends JSONHandler {
         if (slot.title != null) {
             title = slot.title;
         }
-        String startTime = date + "T" + start + ":00.000+01:00";
-        String endTime = date + "T" + end + ":00.000+01:00";
+        String startTime = date + "T" + start + ":00.000+02:00";
+        String endTime = date + "T" + end + ":00.000+02:00";
         LOGV(TAG, "startTime:" + startTime);
         long startTimeL = ParserUtils.parseTime(startTime);
         long endTimeL = ParserUtils.parseTime(endTime);
