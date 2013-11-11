@@ -19,5 +19,6 @@
         android:icon="@drawable/ic_action_refresh"
         android:title="@string/description_refresh"
         android:orderInCategory="1"
+        android:visible="false"
         iosched:showAsAction="ifRoom" />
 </menu>

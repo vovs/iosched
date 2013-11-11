@@ -426,7 +426,7 @@ public class SessionDetailFragment extends Fragment implements
         mDeferredUiOperations.add(new Runnable() {
             @Override
             public void run() {
-                mSocialStreamMenuItem.setVisible(true);
+                //mSocialStreamMenuItem.setVisible(true);
             }
         });
         tryExecuteDeferredUiOperations();

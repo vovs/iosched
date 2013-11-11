@@ -103,9 +103,9 @@ public class HomeActivity extends BaseActivity implements
             actionBar.addTab(actionBar.newTab()
                     .setText(R.string.title_explore)
                     .setTabListener(this));
-            actionBar.addTab(actionBar.newTab()
+            /*actionBar.addTab(actionBar.newTab()
                     .setText(R.string.title_stream)
-                    .setTabListener(this));
+                    .setTabListener(this));*/
             setHasTabs();
 
             if (getIntent() != null
@@ -117,7 +117,7 @@ public class HomeActivity extends BaseActivity implements
             homeScreenLabel = getString(R.string.title_my_schedule);
 
         } else {
-            mSocialStreamFragment = (SocialStreamFragment) fm.findFragmentById(R.id.fragment_stream);
+            //mSocialStreamFragment = (SocialStreamFragment) fm.findFragmentById(R.id.fragment_stream);
 
             homeScreenLabel = "Home";
         }
@@ -228,9 +228,9 @@ public class HomeActivity extends BaseActivity implements
             case 1:
                 titleId = R.string.title_explore;
                 break;
-            case 2:
+            /*case 2:
                 titleId = R.string.title_stream;
-                break;
+                break;*/
         }
 
         String title = getString(titleId);
@@ -282,15 +282,15 @@ public class HomeActivity extends BaseActivity implements
                 case 1:
                     return new ExploreFragment();
 
-                case 2:
-                    return (mSocialStreamFragment = new SocialStreamFragment());
+                /*case 2:
+                    return (mSocialStreamFragment = new SocialStreamFragment());*/
             }
             return null;
         }
 
         @Override
         public int getCount() {
-            return 3;
+            return 2;
         }
     }
 
@@ -330,9 +330,9 @@ public class HomeActivity extends BaseActivity implements
                 HelpUtils.showAbout(this);
                 return true;
 
-            case R.id.menu_wifi:
+            /*case R.id.menu_wifi:
                 WiFiUtils.showWiFiDialog(this);
-                return true;
+                return true;*/
 
             case R.id.menu_settings:
                 startActivity(new Intent(this, SettingsActivity.class));
