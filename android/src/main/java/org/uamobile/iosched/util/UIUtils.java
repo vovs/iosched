@@ -84,12 +84,15 @@ public class UIUtils {
      * Time zone to use when formatting all session times. To always use the
      * phone local time, use {@link TimeZone#getDefault()}.
      */
-    public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Kiev");
+    //public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Kiev");
+
+    public static final String CONFERENCE_TIME_ZONE_STRING = "+02:00";
+    public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("GMT" + CONFERENCE_TIME_ZONE_STRING);
 
     public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime(
-            "2013-11-23T10:00:00.000+02:00");
+            "2013-11-11T10:00:00.000+03:00");
     public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime(
-            "2013-11-23T18:10:00.000+02:00");
+            "2013-11-11T18:10:00.000+02:00");
 
     public static final String CONFERENCE_HASHTAG = "#uamobile #ua";
 

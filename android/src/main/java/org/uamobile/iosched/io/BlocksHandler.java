@@ -27,6 +27,7 @@ import org.uamobile.iosched.provider.ScheduleContract;
 import org.uamobile.iosched.provider.ScheduleContract.Blocks;
 import org.uamobile.iosched.util.Lists;
 import org.uamobile.iosched.util.ParserUtils;
+import org.uamobile.iosched.util.UIUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -88,8 +89,8 @@ public class BlocksHandler extends JSONHandler {
         if (slot.title != null) {
             title = slot.title;
         }
-        String startTime = date + "T" + start + ":00.000+02:00";
-        String endTime = date + "T" + end + ":00.000+02:00";
+        String startTime = date + "T" + start + ":00.000" + UIUtils.CONFERENCE_TIME_ZONE_STRING;
+        String endTime = date + "T" + end + ":00.000" + UIUtils.CONFERENCE_TIME_ZONE_STRING;
         LOGV(TAG, "startTime:" + startTime);
         long startTimeL = ParserUtils.parseTime(startTime);
         long endTimeL = ParserUtils.parseTime(endTime);
