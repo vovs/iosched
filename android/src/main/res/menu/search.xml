@@ -20,5 +20,6 @@
         android:title="@string/description_search"
         android:orderInCategory="0"
         iosched:actionViewClass="android.widget.SearchView"
+        android:visible="false"
         iosched:showAsAction="ifRoom|collapseActionView" />
 </menu>

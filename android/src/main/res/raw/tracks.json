@@ -1,7 +1,7 @@
 {
    "tracks":[
       {
-         "colour":"#000000",
+         "colour":"#ff8800",
          "id":"22",
          "sessions":[
             "115",
@@ -16,7 +16,7 @@
          "meta":1
       },
       {
-         "colour":"#8fb655",
+         "colour":"#47b7e6",
          "id":"20",
          "sessions":[
             "113",
@@ -48,7 +48,7 @@
          "meta":1
       },
       {
-         "colour":"#d35400",
+         "colour":"#cc0000",
          "id":"18",
          "sessions":[
             "119",
